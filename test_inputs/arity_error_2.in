@@ -1,0 +1,7 @@
+class Main : Object {
+    run [|
+    ]
+    foo:and: [ :x |
+         x := 10.
+    ]
+}

@@ -1,0 +1,7 @@
+class Main : Object {
+    run [|
+    ]
+    foo [ :x |
+         x := 10.
+    ]
+}

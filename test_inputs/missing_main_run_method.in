@@ -1,0 +1,9 @@
+class Main : Object {
+    rug [|
+        x := -100.
+        y := 'ahojky'.
+        v := true.
+        w := false.
+        z := nil.
+    ]
+}

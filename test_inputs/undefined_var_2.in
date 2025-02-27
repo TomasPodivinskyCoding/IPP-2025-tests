@@ -1,0 +1,6 @@
+class Main : Object {
+    run [|
+        x := 1.
+        z := x plus y.
+    ]
+}

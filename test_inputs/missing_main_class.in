@@ -1,0 +1,9 @@
+class Pain : Object {
+    run [|
+        x := -100.
+        y := 'ahojky'.
+        v := true.
+        w := false.
+        z := nil.
+    ]
+}
