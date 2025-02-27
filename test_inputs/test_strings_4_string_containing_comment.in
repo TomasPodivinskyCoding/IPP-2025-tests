@@ -1,0 +1,6 @@
+class Main : Object {
+    run [|
+        a := '"This is not a comment"'.
+    ]
+    "This is a comment"
+}
