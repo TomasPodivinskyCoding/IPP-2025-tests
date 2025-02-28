@@ -1,6 +1,6 @@
 class Main : Object {
     run [|
         x := 1.
-        z := x plus z.
+        z := x plus: z.
     ]
 }
